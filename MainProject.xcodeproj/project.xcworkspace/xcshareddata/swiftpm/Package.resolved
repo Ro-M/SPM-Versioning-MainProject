@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyLibraryA",
+        "repositoryURL": "https://github.com/Ro-M/SPM-Versioning-LibraryA",
+        "state": {
+          "branch": null,
+          "revision": "576968c415da7b5082ea67ebe37766a75cfb1840",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "MyLibraryB",
+        "repositoryURL": "https://github.com/Ro-M/SPM-Versioning-LibraryB",
+        "state": {
+          "branch": null,
+          "revision": "ea2a3b32524ddd24daa06d6abfbf68607360ce8e",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
